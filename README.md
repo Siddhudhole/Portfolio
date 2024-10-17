@@ -4,14 +4,14 @@ Welcome to my data science portfolio! I'm Siddharth Dhole, a passionate data sci
 
 ## About Me
 
-I am a Freasher & I have compeleted my Bachelor in Artificial Intelligence . I have a strong interest in in Machine Learing . My skills include:
+I am a Freasher & I have completed my Bachelor in Artificial Intelligence . I have a strong interest in in Machine Learing . My skills include:
 
 - Programming Languages: Python, SQL
 - Data Visualization: Matplotlib, Seaborn, Tableau
 - Machine Learning: Scikit-learn, TensorFlow, Keras,HuggingFace
 - Data Analysis: Pandas, NumPy
 - Big data: Pyspark , Airflow 
-- Generative Ai: langchain framework , Groq Api , Huggingface
+- Generative Ai: Langchain framework , Groq Api , Huggingface Framwwork
 
 ## Projects
 
@@ -33,10 +33,6 @@ Built an interactive user interface with Streamlit to provide realtime predictio
 - **Technologies Used**: List the technologies and tools used.
 - **Link**: [GitHub Repository or Live Demo](#)
 
-### Project 3: [Project Title]
-- **Description**: Briefly describe what the project is about.
-- **Technologies Used**: List the technologies and tools used.
-- **Link**: [GitHub Repository or Live Demo](#)
 
 
 ## Resume
