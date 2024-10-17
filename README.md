@@ -16,7 +16,13 @@ I am a Freasher with a background in Artificial Intelliengec . I have a strong i
 Here are some of the projects I've worked on:
 
 ### Project 1: Heart-Disease-Prediction-Using-Machine Learning
-- **Description**: Briefly describe what the project is about.
+- **Description**: Developed a robust machine learning model to predict heart
+disease risk. Leveraged scikit-learn for model building and
+pandas for data manipulation and analysis. Employed MLflow for
+tracking experiments and model management, and Optuna for
+hyperparameter optimization to enhance model performance.
+Built an interactive user interface with Streamlit to provide realtime predictions and visualizations
+
 - **Technologies Used**: Pandas , Seaborn , scikit-learn , Optuna , Mlflow 
 - **Link**: https://github.com/Siddhudhole/Heart-Disease-Prediction-Using-ML.git 
 
