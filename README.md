@@ -4,12 +4,14 @@ Welcome to my data science portfolio! I'm Siddharth Dhole, a passionate data sci
 
 ## About Me
 
-I am a Freasher with a background in Artificial Intelliengec . I have a strong interest in in Machine Learing . My skills include:
+I am a Freasher & I have compeleted my Bachelor in Artificial Intelligence . I have a strong interest in in Machine Learing . My skills include:
 
 - Programming Languages: Python, SQL
 - Data Visualization: Matplotlib, Seaborn, Tableau
 - Machine Learning: Scikit-learn, TensorFlow, Keras,HuggingFace
 - Data Analysis: Pandas, NumPy
+- Big data: Pyspark , Airflow 
+- Generative Ai: langchain framework , Groq Api , Huggingface
 
 ## Projects
 
@@ -23,7 +25,7 @@ tracking experiments and model management, and Optuna for
 hyperparameter optimization to enhance model performance.
 Built an interactive user interface with Streamlit to provide realtime predictions and visualizations
 
-- **Technologies Used**: Pandas , Seaborn , scikit-learn , Optuna , Mlflow 
+- **Technologies Used**: Pandas , Seaborn , scikit-learn , Optuna , Mlflow ,streamlit 
 - **Link**: https://github.com/Siddhudhole/Heart-Disease-Prediction-Using-ML.git 
 
 ### Project 2: [Project Title]
@@ -36,16 +38,10 @@ Built an interactive user interface with Streamlit to provide realtime predictio
 - **Technologies Used**: List the technologies and tools used.
 - **Link**: [GitHub Repository or Live Demo](#)
 
-## Blog/Articles
-
-I also write about data science topics. Here are some of my articles:
-
-- [Article 1 Title](#)
-- [Article 2 Title](#)
 
 ## Resume
 
-You can view my resume [here](#).
+You can view my resume 
 
 ## Contact
 
