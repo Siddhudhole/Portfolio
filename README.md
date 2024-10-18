@@ -26,7 +26,7 @@ hyperparameter optimization to enhance model performance.
 Built an interactive user interface with Streamlit to provide realtime predictions and visualizations
 
 - **Technologies Used**: Pandas , Seaborn , scikit-learn , Optuna , Mlflow ,streamlit 
-- **Link**: https://github.com/Siddhudhole/Heart-Disease-Prediction-Using-ML.git 
+- **Link**: https://heart-disease-prediction-using-ml-demo.streamlit.app/ 
 
 ### Project 2: [Project Title]
 - **Description**: Briefly describe what the project is about.
